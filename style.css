@@ -1,0 +1,26 @@
+.continer {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    width: 100%;
+    height: 400px;
+    background: hotpink;
+    gap: 10px;
+    margin-top: 20px;
+    justify-content: space-evenly;
+}
+
+.item-1 {
+    width: auto;
+    background: blueviolet;
+}
+
+.item-2 {
+    width: auto;
+    background: rgb(83, 128, 1);
+}
+
+.item-3 {
+    width: auto;
+    background: rgb(122, 9, 133);
+}
